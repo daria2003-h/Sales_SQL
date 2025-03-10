@@ -467,11 +467,14 @@ This project provides valuable insights into customer and product performance, e
 * **Performance Analysis:** Year-over-year tracking helps identify product growth trends.
 
 
-* Next Steps:
+-Next Steps:
 
 **Focus marketing efforts on VIP customers to enhance retention.**
+
 **Address seasonality by launching promotions in February.**
+
 **Continuously monitor product performance and refine inventory strategies.**
+
 
 This comprehensive approach to sales and customer analysis ensures better strategic planning, leading to improved revenue and customer satisfaction
 
