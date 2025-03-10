@@ -1,7 +1,12 @@
 # Sales SQL Project
+This project provides an in-depth analysis of sales, product performance, and customer behavior using SQL. The dataset comprises transactional sales records, customer details, and product information. The goal is to extract valuable insights that help understand trends, performance metrics, and customer segmentation for better business decision-making
 
 ## **Change-Over-Time Analysis**
+This section examines how sales evolve over time, identifying trends, patterns, and seasonal variations. Key insights include:
 
+* Yearly Sales Trends: Analyzing total sales per year to understand business growth.
+* Monthly Trends: Drilling down into month-by-month performance to detect seasonal fluctuations. December emerges as the best-performing month, while February sees the lowest sales.
+* Date Truncation: Using SQL date functions to refine time-based analysis, ensuring accurate and consistent reporting.
 ```sql
 --how a measure evolves over time ~ Trends
 SELECT 
