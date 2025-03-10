@@ -1,4 +1,6 @@
 # Sales SQL Project
+![](https://github.com/daria2003-h/Sales_SQL/blob/main/sales-marketing.png)
+
 This project provides an in-depth analysis of sales, product performance, and customer behavior using SQL. The dataset comprises transactional sales records, customer details, and product information. The goal is to extract valuable insights that help understand trends, performance metrics, and customer segmentation for better business decision-making
 
 ## **Change-Over-Time Analysis**
